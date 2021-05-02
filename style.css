@@ -1,0 +1,15 @@
+body{
+    background-color: #f4f4f4;
+}
+
+img{
+    width: 100%;
+}
+.container {
+    display: grid;
+    -ms-grid-column-align: baseline;
+}
+#header-text{
+    display: flex;
+    justify-content: space-around;
+}
