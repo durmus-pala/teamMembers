@@ -2,14 +2,13 @@ body{
     background-color: #f4f4f4;
 }
 
-img{
-    width: 100%;
+#header-text{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-.container {
-    display: grid;
-    -ms-grid-column-align: baseline;
-}
+
+
 #header-text{
     display: flex;
     justify-content: space-around;
 }
+
